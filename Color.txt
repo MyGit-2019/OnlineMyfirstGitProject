@@ -1,4 +1,6 @@
 Green
+pink
+red
 
 blue
 black
