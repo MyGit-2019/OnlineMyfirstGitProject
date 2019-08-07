@@ -5,3 +5,4 @@ red
 blue
 black
 yellow
+gray
